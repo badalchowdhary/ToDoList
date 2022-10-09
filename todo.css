@@ -1,0 +1,9 @@
+body{
+    background-image: url(winter-landscape-2571788_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: fill;
+}
+
+.container h2{
+    font-family: 'League Spartan', sans-serif;
+}
